@@ -1,4 +1,4 @@
-#🥾👟 KickShoes - A Modern E-Commerce Experience Built with Style, Usability, and Power
+# 🥾👟 KickShoes - A Modern E-Commerce Experience Built with Style, Usability, and Power
 
 - KickShoes is more than just a product sales platform — it is a modern, customizable, and scalable e-commerce solution featuring a full user system and an admin panel.
 - Designed with clean UI/UX principles and built using robust technologies, KickShoes offers a seamless shopping experience for customers and a powerful management interface for administrators.
