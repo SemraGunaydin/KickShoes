@@ -1,0 +1,15 @@
+export const images = [
+	"/item-1.png",
+	"/item-2.png",
+	"/item-3.png",
+	"/item-4.png",
+	"/item-5.png",
+	"/item-6.png",
+	"/item-7.png",
+	"/item-8.png",
+	"/item-9.png",
+	"/view-1.png",
+	"/view-2.png",
+	"/view-3.png",
+	"/view-4.png",
+  ];
